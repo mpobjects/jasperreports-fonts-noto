@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+
+	<fontFamily name="Noto Sans">
+		<normal>com/mpobjects/jasperreports/fonts/noto/NotoSans-Regular.ttf</normal>
+		<bold>com/mpobjects/jasperreports/fonts/noto/NotoSans-Bold.ttf</bold>
+		<italic>com/mpobjects/jasperreports/fonts/noto/NotoSans-Italic.ttf</italic>
+		<boldItalic>com/mpobjects/jasperreports/fonts/noto/NotoSans-BoldItalic.ttf</boldItalic>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+		<exportFonts>
+			<export key="net.sf.jasperreports.html">'Noto Sans', Arial, Helvetica, sans-serif</export>
+			<export key="net.sf.jasperreports.xhtml">'Noto Sans', Arial, Helvetica, sans-serif</export>
+		</exportFonts>
+	</fontFamily>
+
+	<fontFamily name="Noto Serif">
+		<normal>com/mpobjects/jasperreports/fonts/noto/NotoSans-Regular.ttf</normal>
+		<bold>com/mpobjects/jasperreports/fonts/noto/NotoSans-Bold.ttf</bold>
+		<italic>com/mpobjects/jasperreports/fonts/noto/NotoSans-Italic.ttf</italic>
+		<boldItalic>com/mpobjects/jasperreports/fonts/noto/NotoSans-BoldItalic.ttf</boldItalic>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+		<exportFonts>
+			<export key="net.sf.jasperreports.html">'Noto Serif', 'Times New Roman', Times, serif</export>
+			<export key="net.sf.jasperreports.xhtml">'Noto Serif', 'Times New Roman', Times, serif</export>
+		</exportFonts>
+	</fontFamily>
+
+	<fontFamily name="Noto Mono">
+		<normal>com/mpobjects/jasperreports/fonts/noto/NotoMono-Regular.ttf</normal>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+		<exportFonts>
+			<export key="net.sf.jasperreports.html">'Noto Mono', 'Courier New', Courier, monospace</export>
+			<export key="net.sf.jasperreports.xhtml">'Noto Mono', 'Courier New', Courier, monospace</export>
+		</exportFonts>
+	</fontFamily>
+
+</fontFamilies>

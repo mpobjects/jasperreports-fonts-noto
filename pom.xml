@@ -1,0 +1,16 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.mpobjects.jasperreports.font</groupId>
+	<artifactId>jasperreports-fonts-noto</artifactId>
+	<version>2017.10.25</version>
+	<name>Noto</name>
+	<description>JasperReports Font Package Containing the Noto fonts</description>
+	<url>https://www.google.com/get/noto/</url>
+	<licenses>
+		<license>
+			<name>SIL OPEN FONT LICENSE Version 1.1</name>
+			<url>http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&amp;id=OFL</url>
+		</license>
+	</licenses>
+</project>
