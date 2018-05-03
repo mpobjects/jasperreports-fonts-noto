@@ -15,10 +15,10 @@
 	</fontFamily>
 
 	<fontFamily name="Noto Serif">
-		<normal>com/mpobjects/jasperreports/fonts/noto/NotoSans-Regular.ttf</normal>
-		<bold>com/mpobjects/jasperreports/fonts/noto/NotoSans-Bold.ttf</bold>
-		<italic>com/mpobjects/jasperreports/fonts/noto/NotoSans-Italic.ttf</italic>
-		<boldItalic>com/mpobjects/jasperreports/fonts/noto/NotoSans-BoldItalic.ttf</boldItalic>
+		<normal>com/mpobjects/jasperreports/fonts/noto/NotoSerif-Regular.ttf</normal>
+		<bold>com/mpobjects/jasperreports/fonts/noto/NotoSerif-Bold.ttf</bold>
+		<italic>com/mpobjects/jasperreports/fonts/noto/NotoSerif-Italic.ttf</italic>
+		<boldItalic>com/mpobjects/jasperreports/fonts/noto/NotoSerif-BoldItalic.ttf</boldItalic>
 		<pdfEncoding>Identity-H</pdfEncoding>
 		<pdfEmbedded>true</pdfEmbedded>
 		<exportFonts>
