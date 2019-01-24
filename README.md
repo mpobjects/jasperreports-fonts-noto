@@ -4,7 +4,12 @@
 
 This package only contains the Regular, Bold, Italic, and Bold Italic styles for Sans and Serif. The Regular style of Mono is also included.
 
-## [Maven Dependency](https://search.maven.org/#search%7Cga%7C1%7Ca%3A%22jasperreports-fonts-noto%22)
+## Java Dependency
+
+## Java Dependency
+
+[![Maven Central](https://img.shields.io/maven-central/v/com.mpobjects.jasperreports.font/jasperreports-fonts-noto.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22com.mpobjects.jasperreports.font%22%20AND%20a:%22jasperreports-fonts-noto%22)
+
 ```xml
 <dependency>
     <groupId>com.mpobjects.jasperreports.font</groupId>
